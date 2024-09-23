@@ -1,9 +1,9 @@
 # Deep Learning Option Pricing
 
 ## Overview
+**The main files are named 'CodeX.ipynb' where X denotes a natural number denoting the week of progress.**
 
 This repository presents an exploration into pricing European-style options using Physics-Informed Neural Networks (PINNs) under the Black-Scholes model and its extensions, including stochastic volatility models and jump-diffusion models. By leveraging deep learning, we aim to solve partial differential equations (PDEs) relevant to option pricing, offering a modern alternative to traditional numerical methods (like FDM).
-**The main files are named 'CodeX.ipynb' where X denotes a natural number denoting the week of progress.**
 
 ## Project Structure
 
