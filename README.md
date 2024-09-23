@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository presents an exploration into pricing European-style options using Physics-Informed Neural Networks (PINNs) under the Black-Scholes model and its extensions, including stochastic volatility models and jump-diffusion models. By leveraging deep learning, we aim to solve partial differential equations (PDEs) relevant to option pricing, offering a modern alternative to traditional numerical methods.
+This repository presents an exploration into pricing European-style options using Physics-Informed Neural Networks (PINNs) under the Black-Scholes model and its extensions, including stochastic volatility models and jump-diffusion models. By leveraging deep learning, we aim to solve partial differential equations (PDEs) relevant to option pricing, offering a modern alternative to traditional numerical methods. The main files are named 'CodeX.ipynb' where X denotes a natural number denoting the week of progress.
 
 ## Project Structure
 
@@ -26,47 +26,6 @@ This section evaluates the performance of deep learning approaches relative to c
 - **Finite Difference Methods (FDM)**: Traditional numerical technique for solving PDEs.
 - **Finite Element Methods (FEM)**: A more advanced approach often used for complex financial models.
 - **Accuracy and Efficiency Analysis**: Comparing the results obtained from PINNs with those from FDM and FEM.
-
-## Getting Started
-
-### Prerequisites
-
-Ensure you have the following installed:
-- Python 3.x
-- TensorFlow or PyTorch
-- NumPy, SciPy, and Matplotlib
-
-### Installation
-
-Clone this repository:
-```
-git clone https://github.com/yourusername/Deep-Learning-Option-Pricing.git
-cd Deep-Learning-Option-Pricing
-```
-
-Install the required packages:
-
-```
-pip install -r requirements.txt
-```
-
-### Running the Project
-
-To train a PINN model for pricing European options:
-
-```
-python train_pinn.py --config config/black_scholes.json
-```
-
-For comparisons with traditional methods:
-
-bash
-```
-python compare_methods.py
-```
-
-## Results
-Detailed results and analysis will be provided in the results/ directory, including visualizations of option prices, error metrics, and comparisons between methods.
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss any improvements.
