@@ -77,25 +77,9 @@ Our implementation yielded promising results, demonstrating the efficacy of deep
 
 ![Result 1](images/output1.png)
 
-![Result 2](images/output2.jpg)
+![Result 2](images/output5.jpg)
 
-![Result 3](images/output3.jpg)
-
-![Result 4](images/output4.jpg)
-
-![Result 5](images/output5.jpg)
-
-![Result 6](images/output6.jpg)
-
-![Result 7](images/output7.jpg)
-
-![Result 8](images/output8.jpg)
-
-![Result 9](images/output9.jpg)
-
-![Result 10](images/output10.jpg)
-
-![Result 11](images/output11.jpg)
+![Result 3](images/output11.jpg)
 
 
 For a complete analysis of our results, please refer to the individual notebook files (`CodeX.ipynb`, X denotes week of progress).
