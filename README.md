@@ -75,7 +75,7 @@ Our project follows a progressive implementation approach:
 
 Our implementation yielded promising results, demonstrating the efficacy of deep learning approaches in option pricing. Below are some key visualizations:
 
-![Result 1](images/output1.jpg)
+![Result 1](images/output1.png)
 
 ![Result 2](images/output2.jpg)
 
