@@ -75,14 +75,28 @@ Our project follows a progressive implementation approach:
 
 Our implementation yielded promising results, demonstrating the efficacy of deep learning approaches in option pricing. Below are some key visualizations:
 
-![Result 1](images/output2.jpg)
-*Figure 1: Comparison of PINN vs. Analytical Solution for European Call Option*
+![Result 1](images/output1.jpg)
 
-![Result 2](images/output3.jpg)
-*Figure 2: Error Distribution in LSTM-PINN for Multi-asset Option Pricing*
+![Result 2](images/output2.jpg)
 
-![Result 3](images/output4.jpg)
-*Figure 3: Convergence of Loss Function During Training*
+![Result 3](images/output3.jpg)
+
+![Result 4](images/output4.jpg)
+
+![Result 5](images/output5.jpg)
+
+![Result 6](images/output6.jpg)
+
+![Result 7](images/output7.jpg)
+
+![Result 8](images/output8.jpg)
+
+![Result 9](images/output9.jpg)
+
+![Result 10](images/output10.jpg)
+
+![Result 11](images/output11.jpg)
+
 
 For a complete analysis of our results, please refer to the individual notebook files (`CodeX.ipynb`, X denotes week of progress).
 
