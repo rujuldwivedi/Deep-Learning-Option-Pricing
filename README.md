@@ -56,19 +56,19 @@ Our approach progresses from implementing a basic Neural Network to solve standa
 Our project follows a progressive implementation approach:
 
 1. **Basic Neural Network for Standard PDEs**
-   - Implementation: `Code1.ipynb` and `Code2.ipynb`
+   - Implementation: `Code.ipynb`
    - Objective: Solve simple, linear PDEs using feedforward neural networks
 
 2. **Neural Network for Non-linear PDEs**
-   - Implementation: `Code3.ipynb`, `Code4.ipynb` and `Code5.ipynb`
+   - Implementation: `Code2.ipynb` and `Code3.ipynb`
    - Objective: Extend the NN approach to handle non-linear PDEs
 
 3. **PINN for Black-Scholes PDE**
-   - Implementation: `Code6.ipynb`, `Code7.ipynb`
+   - Implementation: `Code4.ipynb` and `Code5.ipynb`
    - Objective: Apply PINN framework to solve the Black-Scholes equation
 
 4. **LSTM-enhanced PINN for Multi-asset PDEs**
-   - Implementation: `Code8.ipynb`
+   - Implementation: `Code6.ipynb`, `Code7.ipynb` and `Code8.ipynb`
    - Objective: Integrate LSTM layers to handle temporal dependencies in multi-asset scenarios
 
 ## Results
@@ -120,19 +120,15 @@ I would like to express my deepest gratitude to Dr. Lok Pati Tripathi for his in
 
 ## References
 
-1. Black, F., & Scholes, M. (1973). The Pricing of Options and Corporate Liabilities. Journal of Political Economy, 81(3), 637-654.
-<!-- Add DOI or link -->
+1. "Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations" by Maziar Raissi, Paris Perdikaris, and George Em Karniadakis. [Link](https://arxiv.org/abs/1711.10561)
 
-2. Raissi, M., Perdikaris, P., & Karniadakis, G. E. (2019). Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations. Journal of Computational Physics, 378, 686-707.
-<!-- Add DOI or link -->
+2. "Physics Informed Neural Network for Option Pricing" by Ashish Dhiman and Yibei Hu. [Link](https://arxiv.org/html/2312.06711v1).
 
-3. [TensorFlow](https://github.com/tensorflow/tensorflow)
-<!-- Add specific commit or version used -->
+3. [PINN](https://github.com/alirezaafzalaghaei/PINN-tutorial)
 
-4. [PyTorch](https://github.com/pytorch/pytorch)
-<!-- Add specific commit or version used -->
+4. [PDE](https://github.com/keonly/black-scholes-pinn)
 
-5. <!-- Add any other relevant papers, books, or repositories used in your project -->
+5. [DGM](https://github.com/alialaradi/DeepGalerkinMethod)
 
 ---
 
