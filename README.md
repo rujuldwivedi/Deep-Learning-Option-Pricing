@@ -116,7 +116,7 @@ To run the notebooks:
 
 ## Acknowledgements
 
-I would like to express my deepest gratitude to Dr. Lok Pati Tripathi for his invaluable guidance and support throughout this project. His expertise and insights have been instrumental in shaping the direction and success of this work. This project would not have been possible without his encouragement and mentorship.
+I would like to express my deepest gratitude to [Dr. Lok Pati Tripathi](https://www.linkedin.com/in/lok-pati-tripathi-b2214820/) for his invaluable guidance and support throughout this project. His expertise and insights have been instrumental in shaping the direction and success of this work. This project would not have been possible without his encouragement and mentorship.
 
 ## References
 
