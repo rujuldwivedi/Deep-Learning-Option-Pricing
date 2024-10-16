@@ -120,15 +120,15 @@ I would like to express my deepest gratitude to Dr. Lok Pati Tripathi for his in
 
 ## References
 
-1. "Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations" by Maziar Raissi, Paris Perdikaris, and George Em Karniadakis. [Link](https://arxiv.org/abs/1711.10561)
+1. ["Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations" by Maziar Raissi, Paris Perdikaris, and George Em Karniadakis.](https://arxiv.org/abs/1711.10561)
 
-2. "Physics Informed Neural Network for Option Pricing" by Ashish Dhiman and Yibei Hu. [Link](https://arxiv.org/html/2312.06711v1).
+2. ["Physics Informed Neural Network for Option Pricing" by Ashish Dhiman and Yibei Hu.](https://arxiv.org/html/2312.06711v1).
 
-3. [PINN](https://github.com/alirezaafzalaghaei/PINN-tutorial)
+3. [A sampled tutorial of Physics Informed Neural Networks (PINN) for standard Partial Differential Equations (PDE) was provided Alireza Afzal Aghaei.](https://github.com/alirezaafzalaghaei/PINN-tutorial)
 
-4. [PDE](https://github.com/keonly/black-scholes-pinn)
+4. [A solution of the Black Scholes model solved via Physics Informed Neural Networks (PINN) was architected by Keon Lee.](https://github.com/keonly/black-scholes-pinn)
 
-5. [DGM](https://github.com/alialaradi/DeepGalerkinMethod)
+5. [An extra Long-Short Term Memory (LSTM) layer was added to the Physics Informed Neural Network (PINN) architecture to capture long term dependency by Ali Al-Aradi.](https://github.com/alialaradi/DeepGalerkinMethod)
 
 ---
 
