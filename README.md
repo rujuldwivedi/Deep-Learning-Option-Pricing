@@ -1,6 +1,6 @@
 # Deep Learning Option Pricing
 
-![Project Banner](images/banner.jpg)
+![Project Banner](Files/banner.png)
 
 ## Table of Contents
 - [Overview](#overview)
